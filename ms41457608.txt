@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "visualstudioenterprise.vercel.app",
+  "Id": "cf0a5828-dceb-4b4a-bd98-19abc47b3833"
+}
